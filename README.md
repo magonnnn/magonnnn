@@ -6,7 +6,7 @@
   <p>Languages:</p>
   <i>Fluent or almost fluent</i>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sql" />
   </p>
   <hr>
   <p>Non-practiced languages:</p>
