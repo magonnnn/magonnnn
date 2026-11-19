@@ -6,13 +6,13 @@
   <p>Languages:</p>
   <i>Fluent or almost fluent</i>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </p>
   <hr>
   <p>Non-practiced languages:</p>
   <i>Or still learning</i>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,vuejs,flask,swift,php,lua" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,vuejs,swift,php,lua" />
   </p>
   <hr>
     <p>Frameworks and some other bs:</p>
