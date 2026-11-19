@@ -3,12 +3,18 @@
     Just whipping up some absolute bullshit
   </p>
   <p>Languages:</p>
+  <i>Fluent or almost fluent</i>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </p>
+  <p>Non-practiced languages:</p>
+  <i>Or still learning</i>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=cpp,python,vuejs,flask,swift,php" />
+  </p>
     <p>Frameworks and some other bs:</p>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,supabase,nodejs,vite" />
+    <img src="https://skillicons.dev/icons?i=react,supabase,nodejs,vite,express" />
   </p>
     </p>
     <p>Tools:</p>
