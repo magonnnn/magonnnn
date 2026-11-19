@@ -12,7 +12,7 @@
   <p>Non-practiced languages:</p>
   <i>Or still learning</i>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,vuejs,flask,swift,php" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,vuejs,flask,swift,php,lua" />
   </p>
   <hr>
     <p>Frameworks and some other bs:</p>
