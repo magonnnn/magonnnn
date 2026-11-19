@@ -1,7 +1,7 @@
 <div>
-  <p>
+  <h1>
     Just whipping up some absolute bullshit
-  </p>
+  </h1>
   <hr>
   <p>Languages:</p>
   <i>Fluent or almost fluent</i>
