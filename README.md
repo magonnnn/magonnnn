@@ -20,6 +20,7 @@
     <img src="https://skillicons.dev/icons?i=react,supabase,nodejs,vite,express" />
   </p>
     </p>
+  <hr>
     <p>Tools:</p>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=github,vscode,git,photoshop" />
