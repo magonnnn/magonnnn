@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </p>
   <hr>
-  <p>Non-practiced languages:</p>
+  <p>Non-practiced languages and frameworks:</p>
   <i>Or still learning</i>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,python,vuejs,swift,php,lua" />
