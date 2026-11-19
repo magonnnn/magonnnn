@@ -23,7 +23,7 @@
   <hr>
     <p>Tools:</p>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=github,vscode,git,photoshop" />
+    <img src="https://skillicons.dev/icons?i=github,vscode,git,photoshop,robloxstudio" />
   </p>
       <p>Finished projects:</p>
       <ul>
