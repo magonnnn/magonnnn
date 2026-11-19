@@ -25,4 +25,8 @@
   <p align="left">
     <img src="https://skillicons.dev/icons?i=github,vscode,git,photoshop" />
   </p>
+      <p>Finished projects:</p>
+      <ul>
+        <li>POLISH CS2 UNDERGROUND WEBSITE - <a href="https://undergroundcs2.pl">Link</a></li>
+      </ul>
 </div>
