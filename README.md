@@ -6,9 +6,9 @@
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </p>
-    <p>Frameworks:</p>
+    <p>Frameworks and some other bs:</p>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,supabase,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,supabase,nodejs,vite" />
   </p>
     </p>
     <p>Tools:</p>
