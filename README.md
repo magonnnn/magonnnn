@@ -16,7 +16,7 @@
   <hr>
     <p>Frameworks and some other bs:</p>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,supabase,nodejs,vite,express" />
+    <img src="https://skillicons.dev/icons?i=react,supabase,nodejs,vite,express,tailwind" />
   </p>
     </p>
   <hr>
@@ -26,6 +26,6 @@
   </p>
       <p>Finished projects:</p>
       <ul>
-        <li>POLISH CS2 UNDERGROUND WEBSITE - <a href="https://undergroundcs2.pl">Link</a></li>
+        <li>POLISH CS2 UNDERGROUND WEBSITE (Vite, React, Tailwind, Supabase) - <a href="https://undergroundcs2.pl">Link</a></li>
       </ul>
 </div>
