@@ -3,8 +3,7 @@
     Just whipping up some absolute bullshit
   </h1>
   <hr>
-  <p>Languages:</p>
-  <i>Fluent or almost fluent</i>
+  <p>Fluent or almost fluent:</p>
   <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </p>
